@@ -1,10 +1,10 @@
 import math
 
-def Pythag(a, b):
+def pythag(a, b):
 	c = math.sqrt(a ** 2 + b ** 2)
 	return c
 	
-sideA = input("enter side a: ")
-sideB = input("enter side b: ")
-sideC = Pythag(sideA, sideB)
-print "side c is: " + str(sideC)
+side_a = input('enter side a: ')
+side_b = input('enter side b: ')
+side_c = pythag(side_a, side_b)
+print 'side C is: ' + str(side_c)
