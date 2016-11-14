@@ -1,2 +1,3 @@
 # PythonSlidesUcsd
-course material for UCSD ECE Summer Workshop 2015 (Introduction to Python)
+Course material for Introduction to Python Programming
+Last updated: November 2016
